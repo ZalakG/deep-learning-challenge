@@ -67,7 +67,7 @@ No, by using hidden_layer1 = 80 and hidden_layer2 = 30 and activation = "relu" c
 * What steps did you take in your attempts to increase model performance?
 - To optimize the accuracy level to 75%, I increased number of nurons for hidden layer2. With this change, I got the accuracy 72%
 - In second attempt I added more layers and decrease the echo to 100 but still the accuracy is 73%
-- In third attempt I increased no. of echos
+- In third attempt I increased no. of echos but still the accuracy is 72%.
 
 # Summary:
 The deep learning model that I have developed was unable to achieve accuracy higher than 73%. To improve the deep learning model's performance, I would consider adding more data, ensuring proper data cleaning, exploring alternative algorithms, identifying feature importance, addressing bias and outliers, and applying data binning techniques.
