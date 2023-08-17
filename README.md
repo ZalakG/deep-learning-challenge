@@ -26,7 +26,10 @@ Step 3: Optimize the Model
 Step 4: Write a Report on the Neural Network Model
 Step 5: Copy Files Into Your Repository
 
-* 
+* The Starter_code contains all code files:
+*  "starter_code.ipynb" file which has challenge code.
+* AlphabetSoup_CharityFunding_Optimization.ipynb file contains additional optimization analysis for the accuracy.
+  
 
 # Write a Report on the Neural Network Model
 
